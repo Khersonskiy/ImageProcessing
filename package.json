@@ -1,6 +1,6 @@
 {
   "name": "imageprocessingbykhersonskiy",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "by Khersonskiy",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Khersonskiy/ImageProcessing.git"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "KhersonskiySpencer",
+  "license": "MIT",
+  "dependencies": {
+    "pdfgenerationbykhersonskiy": "^1.0.0"
+  }
 }
